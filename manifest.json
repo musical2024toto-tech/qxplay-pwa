@@ -1,0 +1,10 @@
+{
+  "name": "QXPlay GT",
+  "short_name": "QXPlay GT",
+  "description": "Radio y televisión en vivo con contenido católico",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090014",
+  "theme_color": "#6a0dad",
+  "orientation": "portrait"
+}
